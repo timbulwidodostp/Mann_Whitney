@@ -1,6 +1,8 @@
 # Mann_Whitney
 Mann Whitney U Test In R Software
 
+https://www.youtube.com/watch?v=nNF9n-2s8yM
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
